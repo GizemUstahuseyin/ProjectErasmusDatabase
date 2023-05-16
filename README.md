@@ -49,13 +49,10 @@ After Business Rules and ER Diagrams, the normalization phase was initiated. A n
 
 #### ENTITIES:
 
-- Application Information
-
-- User General Information
-
-- Document Information
-
-- Account Information
+**Application Information**<br/>
+**User General Information**<br/>
+**Document Information**<br/>
+**Account Information**<br/>
 
 - TABLE 1 Application General Information User ID, Application Date, Application Status<br/>
 - TABLE 2 User General Information (User ID, Document ID, User Name, User Surname, Nationality, Second Nationality, ID Number, Passport Number (if second nationality exists), Gender, Date of Birth, Disability status, Description (if disability exists), Phone Number, Email Address, City of Residence, District of Residence, Neighborhood of Residence, Street of Residence, Apartment No, Postal Code, University Name Graduated, Faculty Name Graduated, Department Name Graduated, Grade Point Average at Graduation, Graduation Date, Email, Password, Account Opening Date) <br/>
